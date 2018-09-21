@@ -1,0 +1,33 @@
+_repo: Rahanvaihtajat_54556
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sirola, Yrjö
+    alias: Sirola, Yrjo
+    gutenberg_agent_id: '46914'
+    url: http://www.gutenberg.org/2009/agents/46914
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Sinclair, Upton Beall
+    - Fitch, Clarke
+    - Garrison, Frederick
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2017-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54556'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rahanvaihtajat
+url: http://www.gutenberg.org/ebooks/54556
